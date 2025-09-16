@@ -18,6 +18,7 @@ public class Sum
         Sum sum1 = new Sum(6,2);
         int result = sum1.a + sum1.b  ;
         System.out.println("Result "  + result);
+        System.out.println("Git commit2");
 
     }
 }
